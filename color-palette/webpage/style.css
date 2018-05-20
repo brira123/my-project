@@ -1,0 +1,73 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+section {
+    display: inline-block;
+}
+.first {
+    background-color: #fef11a;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.second {
+    background-color: #fefee6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.third {
+    background-color: #fefcc2;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.fourth {
+    background-color: #fdfa98;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.fifth {
+    background-color: #fdf76c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.sixth {
+    background-color: #fef448;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.seventh {
+    background-color: #fef11a;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.eighth {
+    background-color: #ffdc07;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.ninth {
+    background-color: #ffc100;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tenth {
+    background-color: #ffa500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.right {
+    margin-left: 170px;
+}
+div {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.down {
+    display: flex;
+    margin-top: 59px;
+    margin-bottom: -18px;
+}
+.down2 {
+    margin-top: 20px;
+    margin-left: 197px;
+}

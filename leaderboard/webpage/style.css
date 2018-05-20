@@ -1,0 +1,91 @@
+body
+{
+    margin:0;
+    text-align: center;
+}
+header
+{
+    background-color: #383838;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+h1
+{
+    font-family: jua, 'cursive';
+    font-size: 16px;
+    margin: 0; 
+}
+header:hover .icon:nth-child(2)
+{
+    color: #ccda36;
+}
+header:hover h1
+{
+    color: #ccda36;
+}
+.icon
+{
+    color: white;
+    font-size: 40px;
+}
+article
+{
+    border: 10px solid 	#383838;
+    display: inline-block;
+    margin: 10px;
+    outline: 2px solid #E6BE8A;
+}
+article div:nth-child(1) .trophee
+{
+    color: gold;
+}
+article div:nth-child(2) .trophee
+{
+    color: grey;
+}
+article div:nth-child(3) .trophee
+{
+    color: orangered;
+}
+article div
+{
+    border: 1px solid #E6BE8A;
+    padding: 10px 70px 10px 70px;
+}
+.country
+{
+    display:block;
+    font-family: jua, 'cursive';
+}
+.country::first-letter
+{
+    font-size: 20px;
+}
+article div:nth-child(3)~div
+{
+    background-color:#80808054;
+}
+footer
+{
+    background-color: #383838;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-family: jua, 'cursive';
+}
+p
+{
+    color: white;
+}
+footer:hover .heart
+{
+    color: red;
+}
+article
+{
+   text-align: center;
+}

@@ -1,0 +1,16 @@
+div {
+    background-color: deepskyblue;
+    padding: 16px;
+    display: inline-block;
+}
+h1 {
+    background-color: DodgerBlue;
+    padding: 16px;
+}
+body {
+    background-color: black;
+}
+.last {
+    margin-top: 15px;
+    margin-bottom: -10px;
+}

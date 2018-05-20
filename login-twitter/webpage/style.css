@@ -1,0 +1,31 @@
+body {
+    font-family: 'Tajawal', sans-serif;
+    margin-left: 20px;
+    font-size: 16px;
+}
+button {
+    color: white;
+    background-color: #34a1f2;
+    border-radius: 300px;
+    border: none;
+    padding: 10px 15px;
+}
+span {
+    display: inline-block;
+    color: #34a1f2;
+}
+p {
+    color: #99a5ae;
+} 
+input[type="text"] {
+        border:1px solid #f1f5f7;
+        padding: 10px 90px 10px 0px;
+}
+input[type="password"] {
+         border:1px solid #f1f5f7;
+         padding: 10px 90px 10px 0px;
+}
+footer {
+    background-color: #f5f8fa;
+    padding: 10px;
+}
