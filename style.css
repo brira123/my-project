@@ -1,14 +1,22 @@
 div {
-    background-color: deepskyblue;
+    background-color: #b1006a;
     padding: 16px;
     display: inline-block;
+    font-family: 'Roboto', sans-serif;
 }
 h1 {
-    background-color: DodgerBlue;
-    padding: 16px;
+    background-color: #0277BD;
+    padding: 30px;
+    border: 20px solid #01579B;
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Bree Serif', serif;
 }
 body {
-    background-color: black;
+    background-color: #E1F5FE;
+    margin: 0;
 }
 .last {
     margin-top: 15px;
